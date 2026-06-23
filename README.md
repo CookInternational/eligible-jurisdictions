@@ -2,6 +2,8 @@
 
 This package is for the separate Eligible Jurisdictions repository.
 
+Copyright © 2025 Cook Services Company, LLC | All Rights Reserved | Developed by Cook Technology Services | Last Updated on 23 June 2026 at 05:33:33Z.
+
 ## Files
 
 - `index.html` — standalone Service Availability & Restricted Access page
@@ -19,3 +21,5 @@ This package is for the separate Eligible Jurisdictions repository.
 - No CNAME is included because the standalone repository's final custom domain was not supplied.
 
 Upload the contents of this package to the root of the Eligible Jurisdictions repository.
+
+Copyright © 2025 Cook Services Company, LLC | All Rights Reserved | Developed by Cook Technology Services | Last Updated on 23 June 2026 at 05:33:33Z.
